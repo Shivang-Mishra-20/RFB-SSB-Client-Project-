@@ -49,5 +49,5 @@ Developed and deployed the official website of RFB SSB (rfbssb.com) as a Web Dev
 
 ## 👨‍💻 Credits & Contact
 
-**Developer:** Shivang Mishra (Web Dev INtern)  
+**Developer:** Shivang Mishra (Web Dev Paid Intern)  
 **Live Website:** [https://rfbssb.com](https://rfbssb.com)   
