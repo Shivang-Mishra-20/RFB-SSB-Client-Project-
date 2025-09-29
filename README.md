@@ -35,26 +35,6 @@ Developed and deployed the official website of RFB SSB (rfbssb.com) as a Web Dev
 
 ---
 
-## 📁 File Structure
-
-rfb-ssb-website/
-│
-├── index.html
-├── about.html
-├── courses.html
-├── success.html
-├── latest-material.html
-├── contact.html
-├── style.css
-│
-└── images/
-├── hero-image.png
-├── hero-pattern.png
-├── 1.jpg, 2.jpg, ... 17.jpg
-├── about-image1.png ... about-image6.png
-├── candidate1.jpg ... candidateN.jpg
-└── other assets (icons, logos)
-
 ---
 
 
