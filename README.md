@@ -35,8 +35,9 @@ Developed and deployed the official website of RFB SSB (rfbssb.com) as a Web Dev
 
 ---
 
----
+## 🚀 How to Use (Local)
 
-
-## 📁 File Structure
-
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Shivang-Mishra-20/rfb-ssb-website.git
+2. cd rfb-ssb-website
