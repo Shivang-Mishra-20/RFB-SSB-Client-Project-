@@ -40,4 +40,7 @@ Developed and deployed the official website of RFB SSB (rfbssb.com) as a Web Dev
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Shivang-Mishra-20/rfb-ssb-website.git
-2. cd rfb-ssb-website
+2. **Change directory**
+   ```bash
+   cd rfb-ssb-website
+3. **Open index.html**
